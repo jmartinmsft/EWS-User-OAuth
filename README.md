@@ -1,5 +1,7 @@
 Requirements to run the EWS-SampleOAuth script
+
 	- MSAL (Microsoft Authentication Library) module
+
 	- EWS Managed API
 
 Description
